@@ -1,2 +1,5 @@
 console.log("Hello World!");
-console.log(5+10);
+function sum(a,b) {
+    a + b
+}
+console.log(sum(5+10));
