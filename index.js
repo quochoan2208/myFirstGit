@@ -1,4 +1,4 @@
-console.log("Hello World!");
+console.log("i cause");
 function sum(a,b) {
     a + b
 }
